@@ -38,10 +38,15 @@ body{
     left: -1px;
 
 }
-
 .switch i {
     position: absolute;
     color: #FFD363;
     top: 6px;
     right: 23px;
+}
+
+.btn-change {
+
+    right: -1px;
+    left: auto;
 }
